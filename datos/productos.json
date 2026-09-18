@@ -1,0 +1,14 @@
+[
+    {
+        "id_producto": 1,
+        "nombre": "Encebollado Mixto",
+        "categoria": "Platos Fuertes",
+        "precio": 4.5
+    },
+    {
+        "id_producto": 2,
+        "nombre": "Jugo Natural",
+        "categoria": "Bebidas",
+        "precio": 1.25
+    }
+]
